@@ -4,6 +4,7 @@ A tool for staying AFK overnight in Roblox without having to worry about your ho
 # Needs:
 - WebSockets (executor)
 - Windows OS
+- WebSockets Package (pip install websockets)
 - Hibernation Disabled (for sleeping)
 
 # Usage:
