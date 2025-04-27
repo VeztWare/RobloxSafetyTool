@@ -10,7 +10,7 @@ import time
 PORT = 6969 # no need to change this.
 
 system = platform.system()
-if system == "Windows":
+if system != "Windows":
     print("sorry! but you need windows for this to work.")
     time.sleep(1)
     exit()
